@@ -1,0 +1,9 @@
+﻿.NET MAUI is Microsoft's powerful framework for creating cross-platform applications, that is, applications for Android, iOS, Windows and MacOS, creating the code only once, and being able to deploy it on multiple platforms. Moreover, it is the evolution of Xamarin, which means that the team behind .NET MAUI has taken all the experiences over several years, to develop from scratch this new framework.
+
+I have created this .NET MAUI course to teach you how to use the framework to create your own cross-platform applications, teaching you throughout the course how to use the different components of the framework to create these applications.
+
+Throughout this course, we will create a series of applications that will allow you to put into practice everything you have learned, so that you will know how to implement the different features in real cases, while you will have several applications that you can put in your portfolio.
+
+As more controls and nuget packages are updated, the course will be updated so that you always have the best information available.
+
+Among the main topics that we will address in the course are:
